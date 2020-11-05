@@ -9,7 +9,7 @@ if gpu_info.find('failed') >= 0:
   print('and then re-execute this cell.')
 else:
   print(gpu_info)
-  '''
+'''
   
 # Check how much Ram is available
 from psutil import virtual_memory
