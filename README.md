@@ -1,5 +1,3 @@
-# Colab-commands
-
 # Check what GPU you have been assigned
 ```
 gpu_info = !nvidia-smi
